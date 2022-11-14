@@ -1,4 +1,4 @@
-# Conky Clean 2021 by Seraph4
+# Conky Clean 2021 by Ser4ph4
 My conky config In Manjaro KDE
 Welcome to the conkyclean wiki!
 
