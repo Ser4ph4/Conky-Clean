@@ -6,4 +6,4 @@ Hello guys my conky config Important :+1: Instaled :+1 VNSTAT AND HDTEMP
 
 Any questions I am available to help = D
 
-![Conky](https://i.imgur.com/L7VfrZx.png)
+![Conky](https://i.imgur.com/FNL0TbZ.png)
